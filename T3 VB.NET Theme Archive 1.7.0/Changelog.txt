@@ -1,0 +1,59 @@
+v1.7.0.0 [1/23/2015]
+-Added: Aevion Theme
+-Added: Azenis Theme
+-Added: Carbonite Theme
+-Added: CryEngine Theme
+-Added: Eightball Theme
+-Added: Elementary Theme
+-Added: Flame Theme
+-Added: Glossyus Theme
+-Added: Heaven Theme
+-Added: Hurrycan Theme
+-Added: OriginGDI Theme
+-Added: Piano Theme
+-Added: PV Theme
+-Added: TheEmpire Theme
+-Added: Valley Theme
+-Added: VisualStudioGDI Theme
+-Added: WhiteUI Theme
+-Added: YoutubeGDI Theme
+
+v1.6.1.0 [7/23/2014]
+-Fixed: Startup/crash error "side-by-side config"
+
+v1.6.0.0 [7/22/2014]
+-Downgraded from the required .Net FW 4.0 to 2.0
+-Restored the origianl WinForms TabControl
+-Updated many screenshots
+-Improved: screenshots quality
+-Removed: tab animation due to sync. delays
+-Fixed: "RedDwagon Theme" code errors
+-Fixed: "MPGH Theme" code errors
+-Added: BlueAndWhite Theme
+-Added: Deimos Theme
+-Added: Earn Theme
+-Added: Flat UI Theme
+-Added: FrostByte Theme
+-Added: Genesis Theme
+-Added: HazelDev Theme
+-Added: Hura Theme
+-Added: Light Hura Theme
+-Added: MetroDisk Theme
+-Added: Phsphene_Theme
+-Added: SimpleBlue Theme
+-Added: Style30 Theme
+-Added: SweetTheme
+
+v1.5.0.0 [15/2/2014]
+-Added: Aresio Theme
+-Added: Avast Theme
+-Added: Bonefire Theme
+-Added: Calvv Theme
+-Added: CarbonFibre Theme
+-Added: DynamUI Theme
+-Added: Elegant Theme
+-Added: FacebookGDI Theme
+-Added: Gray-Blue Theme
+-Added: Inj3ct0r Theme
+-Added: LogIn Theme
+-Added: Vizual Theme

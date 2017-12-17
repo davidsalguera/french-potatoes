@@ -1,0 +1,27 @@
+The software is provided "as is", without warranty of any kind,
+express or implied, including but not limited to the warranties
+of merchantability, fitness for a particular purpose and
+non-infringement. In no event shall the authors or copyright
+holders be liable for any claim, damages or other liability,
+whether in an action of contract, tort or otherwise, arising from,
+out of or in connection with the software or the use or other
+dealings in the software.
+
+=========
+
+Included Themes: 166
+Included Theme Bases: 5
+Archive Version: 1.7
+
+=========
+
+If you encounter any issues with the themes or the theme bases,
+please refer the source code and find the contact information of
+the theme/theme base author. We are unable to help you in any
+form if your problems are related to the theme or theme base as
+this is only an archive to store the released themes.
+
+=========
+
+If you need any assistance on this application, you may contact
+us at: HazelDev@outlook.com
