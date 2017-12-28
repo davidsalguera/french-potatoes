@@ -1,0 +1,25 @@
+Estandares para trabajar en grupo
+(SINO NO TRABAJO EN GRUPO!)
+
+-Hacer uso de Github para tener un solo proyecto
+(con todos los cambios hechos por los demás).
+
+-Tener los materiales que se implementaran
+
+los colores para la interfaz,
+los dise;os de los botones y barras
+(esta informacion debe de estar guardada en 
+una carpeta en Github).
+
+Despues sigue el diseño
+
+las ideas del diseño deben de quedar guardadas en una
+carpeta del proyecto en Github
+
+necesitamos tener imagenes previas del diseño para la elaboración del software.
+
+Una vez que tengamos todo esto, procedemos a realizar el software.
+
+hacer la programacion por capas si se habla de lenguajes de alto nivel como java o csharp.
+
+Dividirse el trabajo si se trata de un software con base de datos.
