@@ -1,0 +1,48 @@
+- Diagrama de Clases
+- Modelo relacional
+
+Auditoria = Controlar las operaciones que se realizan en la empresa
+
+Para DBA = Saber administrar la seguridad, planes de respaldo, archivos 
+de la base de datos.
+
+Mapeo Objeto relacional = Tecnica utilizada en la actualidad, solo se encarga de brindar 
+la base de datos, mas todo se realiza mediante la aplicación.
+
+Mineria de datos = El estudio de la información, transformarla en conocimiento para la toma
+de decisiones. Mineria de datos para los estadísticos.
+
+Data Warehouse = Almacena información histórica a lo largo del tiempo. Generar 
+reporteria.
+
+Cubo = Combina la informacion en base a dimensiones.
+
+1 Parcial de 35pts
+
+30 Sistemático
+
+1 Examen final de 15pts
+
+Tarea de 20pts proyecto de mapeo de objetos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
